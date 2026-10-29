@@ -229,7 +229,7 @@ Halo runs on all three platforms, but a few OS-level behaviours genuinely differ
 | Automatic updates               | Yes                                                          | Yes                                      | AppImage only                                                   |
 | Signed by a developer certificate | Not yet (confirm once on first launch)                     | Not yet (SmartScreen prompt)             | n/a                                                             |
 
-If something behaves differently on your system than described here, please [open an issue](https://github.com/likhithrajuuu/halo/issues) with your OS and version.
+If something behaves differently on your system than described here, please [open an issue](https://github.com/likhithrajuuu/halo-timer/issues) with your OS and version.
 
 ## Troubleshooting
 
@@ -289,7 +289,7 @@ Go to **Settings → About → Reset all data**. Click it twice to confirm. This
 
 ## Feedback
 
-Found a bug or have an idea? [Open an issue](https://github.com/likhithrajuuu/halo/issues). Please include your operating system and your Halo version (**Settings → About**).
+Found a bug or have an idea? [Open an issue](https://github.com/likhithrajuuu/halo-timer/issues). Please include your operating system and your Halo version (**Settings → About**).
 
 ## License
 
